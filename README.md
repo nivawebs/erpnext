@@ -82,3 +82,8 @@ Please note that it is not the goal of this policy to limit commercial activity 
 When in doubt about your use of the ERPNext name or logo, please contact the Web Notes Technologies for clarification.
 
 (inspired from Wordpress)
+
+
+
+
+https://www.codeship.io/projects/51b7cbb0-359d-0131-c396-4a33b8447066/status
